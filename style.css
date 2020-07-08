@@ -1,3 +1,6 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
 .light-green-bg{
   background-color: #f0fff0;
 }
@@ -71,8 +74,8 @@
 
   .footer-bg{
     background-color: #282531;
-    height:300px;
-    padding-top: 50px;
+    
+    padding-top: 50px; 
   }
 
   .footer-text{
@@ -81,12 +84,9 @@
 
   .footer-bg1{
     background-color: #282531;
-    
-    
-
   }
 
-  
+
 
  
 
