@@ -48,6 +48,7 @@
   -webkit-box-shadow: -4px 20px 84px -12px rgba(0,0,0,0.31);
   -moz-box-shadow: -4px 20px 84px -12px rgba(0,0,0,0.31);
   box-shadow: -4px 20px 84px -12px rgba(0,0,0,0.31);
+  background-color: white;
 }
 
 /* 4 card ends */
@@ -59,6 +60,33 @@
     box-shadow: -4px 20px 84px -12px rgba(0,0,0,0.31);
     border: none;
   }
+
+  /* modal */
+ 
+  .height{
+    height: 300px;
+  }
+
+  /* footer */
+
+  .footer-bg{
+    background-color: #282531;
+    height:300px;
+    padding-top: 50px;
+  }
+
+  .footer-text{
+    color: white;
+  }
+
+  .footer-bg1{
+    background-color: #282531;
+    
+    
+
+  }
+
+  
 
  
 
