@@ -1,0 +1,66 @@
+.light-green-bg{
+  background-color: #f0fff0;
+}
+
+.green-btn{
+  background-color: #21b573;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+
+.green-text{
+  color: #21b573;
+}
+
+.red-text{
+  color: rgb(243, 30, 30);
+}
+
+/* 4 cards */
+
+.cat1, .cat2, .cat3, .cat4{
+  background-color: #f8fffb;
+  border-radius: 10px;
+  margin-top: 30px;
+
+}
+
+.center{
+  text-align: center;
+  
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.center img{
+  width: 50px;
+  padding-bottom: 10px;
+}
+
+.cat1:hover, .cat2:hover, .cat3:hover, .cat4:hover{
+  -webkit-box-shadow: -4px 20px 84px -12px rgba(0,0,0,0.31);
+  -moz-box-shadow: -4px 20px 84px -12px rgba(0,0,0,0.31);
+  box-shadow: -4px 20px 84px -12px rgba(0,0,0,0.31);
+}
+
+/* 4 card ends */
+
+
+  .card{
+    -webkit-box-shadow: -4px 20px 84px -12px rgba(0,0,0,0.31);
+    -moz-box-shadow: -4px 20px 84px -12px rgba(0,0,0,0.31);
+    box-shadow: -4px 20px 84px -12px rgba(0,0,0,0.31);
+    border: none;
+  }
+
+ 
+
+
+
